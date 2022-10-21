@@ -1,9 +1,27 @@
 img{
-    width: 100%;
+    width: 75%;
 }
 
 #container{
     width: 100%;
     margin: 0;
     padding: 0;
+    text-align: center;
+}
+
+#main{
+    float: inherit;
+    width: 100%;
+}
+
+#header{
+    clear: both;
+}
+
+#sidebar{
+    width: 100%;
+}
+
+.left{
+    float: left;
 }
