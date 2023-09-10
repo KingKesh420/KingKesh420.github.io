@@ -63,7 +63,9 @@ p{
 
 .circle{
      border-radius: 50%;
-     width: 90%;
+     width: 150px;
+     height: 150px;
+     margin-left: 15px;
 }
 
 .borderleft{
